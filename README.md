@@ -6,4 +6,6 @@ You need to import some js files in your project.
 3. jquery.min.js
 4. jquery.passwordstrength.js
 
+For output you can refer passwordChecker.png image
+
 Thank You!
