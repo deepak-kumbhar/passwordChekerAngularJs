@@ -1,0 +1,21 @@
+.center-panel{
+	    text-align: center;
+		}
+
+		.heading_color{
+			color:#121215;
+		}
+		.fixed-size-square {
+		margin-top: 10%;
+		     margin-left: 50%;
+    display: table;
+    width: 200px;
+    height: 200px;
+    background: rgba(70, 121, 189, 0.34);
+}
+.fixed-size-square span {
+    display: table-cell;
+    text-align: center;
+    vertical-align: middle;
+    color: white
+}
